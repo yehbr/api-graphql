@@ -1,5 +1,5 @@
 {
-  "name": "api-graphql",
+  "name": "api-my-library",
   "version": "1.0.0",
   "description": "API on NodeJS with GraphQL and Apollo",
   "main": "index.js",
@@ -7,13 +7,11 @@
     "dev": "nodemon server/app.js"
   },
   "keywords": [
-    "api",
-    "graphql",
-    "Apollo",
-    "nodejs",
-    "express",
-    "MongoDB",
-    "React"
+    "API",
+    "GraphQL",
+    "NodeJS",
+    "Express",
+    "MongoDB"
   ],
   "author": "Nury K.",
   "license": "MIT",
